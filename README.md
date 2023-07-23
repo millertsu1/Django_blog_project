@@ -2,7 +2,7 @@
 
 El proyecto en esta ocasión es un blog de tecnología, haciendo uso del lenguaje Python y del framework Django, además Bootstrap, para generar los estilos visuales de manera más rápida y eficiente.
 
-Link al video demostración 3min: https://drive.google.com/file/d/1C1_8yGL9J1HOisPSATydQOOBdh-R3wky/view?usp=sharing
+Link al video demostración : 
 
 ## Características Admin
 
@@ -19,7 +19,7 @@ Link al video demostración 3min: https://drive.google.com/file/d/1C1_8yGL9J1HOi
 - creación y visualización de categorías
 - creación y visualización de etiquetas
 
-## Características Redactores
+## Características Editores
 
 - visualización y edición de posts
 - visualización y edición de categorías
@@ -34,7 +34,7 @@ Link al video demostración 3min: https://drive.google.com/file/d/1C1_8yGL9J1HOi
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/millertsu1/ProyectoFinalPython_Ladino.git
+git clone https://github.com/millertsu1/Django_blog_project.git
 
 2. Accede al directorio del proyecto:
 
@@ -52,7 +52,7 @@ python manage.py runserver
 
 7. Accede a la aplicación en tu navegador web en la siguiente dirección:
 
-http://localhost:8000/ y.o 127.0.0.1:8080
+http://localhost:8000/ o 127.0.0.1:8080
 
 NOTA
 Es posible que tengas que instalar CKeditor :
@@ -63,9 +63,9 @@ Es posible que tengas que instalar CKeditor :
 ## Tecnología Utilizada
 
 ## Front-End
-HTML
-Bootstrap 
-## Back-End
+- HTML
+- Bootstrap 
 
-Python 
-Django
+## Back-End
+- Python 
+- Django
