@@ -2,7 +2,7 @@
 
 El proyecto en esta ocasión es un blog de tecnología, haciendo uso del lenguaje Python y del framework Django, además Bootstrap, para generar los estilos visuales de manera más rápida y eficiente.
 
-Link al video demostración : 
+Link al video demostración : https://drive.google.com/file/d/1usYJYBR8J5VYnqgIRgBtIK0aKU3CJcEw/view?usp=sharing
 
 ## Características Admin
 
@@ -56,7 +56,7 @@ http://localhost:8000/ o 127.0.0.1:8080
 
 NOTA
 Es posible que tengas que instalar CKeditor :
-- La primera es para permitir editar el post con texto RICH TEXT( agregar negrita, cursiva... etc). Link https://pypi.org/project/django-ckeditor/
+- Esta instlacion es para permitir editar el post con texto RICH TEXT( agregar negrita, cursiva... etc). Link https://pypi.org/project/django-ckeditor/
 - Los comandos pip install django-ckeditor.
 
 
