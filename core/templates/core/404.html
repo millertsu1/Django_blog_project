@@ -1,0 +1,23 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+
+{% block content %}
+
+<h1 class="display-4 fst-italic text-center">Pagina no encontrada</h1>
+<div class="col-auto d-none d-lg-block">
+    <img src={% static 'core/img/page_not_found.png' %} class="img-fluid rounded" alt={{ post.title }}>
+</div>
+
+
+<hr>
+
+{% if request.path != "/" %}
+<div class="my-3">
+  <a class="btn btn-primary rounded-pill" href={% url 'home' %}>Volver al Inicio</a>
+</div>
+{% endif %}
+
+</div>
+
+{% endblock %}
